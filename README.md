@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="left" height=160 width=330 src="https://github-readme-stats.vercel.app/api?username=nafis-ishrak&show_icons=true&locale=en" alt="nafis-ishrak" 
 
-<p><img align="right" height=160 width=330 src="https://github-readme-streak-stats.herokuapp.com/?user=nafis-ishrak&" alt="nafis-ishrak" /></p>
+<p><img align="left" height=160 width=330 src="https://github-readme-streak-stats.herokuapp.com/?user=nafis-ishrak&" alt="nafis-ishrak" /></p>
