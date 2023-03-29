@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **a few ML projects**
 
-- 🌱 I’m currently learning **Pytorch and Deep Learning**
+- 🌱 I’m currently learning **SQL, Pytorch and Deep Learning**
 
-- 💬 Ask me about **technology, life at HKU, football and Manchester United**
+- 💬 Ask me about **technology, life at HKU, football,Manchester United and South Asian History**
 
 - 📫 How to reach me **ishrak@connect.hku.hk**
 
